@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         System.out.println("My first code in repo");
-        System.out.println("New branch super");
+        System.out.println("New super");
+
     }
 }
